@@ -9,7 +9,7 @@
 
 ## Setup
 
-Run migration files and database seeder to populate data.
+Run migration files and database seeder.
 
 
 ## About Laravel
